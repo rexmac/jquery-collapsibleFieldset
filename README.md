@@ -36,3 +36,7 @@ Callback function invoked after fieldset is collapsed.
 ###expand
 Callback function invoked after fieldset is expanded.
 
+##Copyright and License
+Copyright (c) 2012 Rex McConnell.
+
+The jQuery Collapsible Fieldset plugin is licensed under the [MIT license](http://rexmac.github.com/license/mit.txt).
